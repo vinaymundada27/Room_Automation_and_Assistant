@@ -1,0 +1,31 @@
+brighten up the room,light_inc
+brighten the lights,light_inc
+darken the room,light_dec
+let more air in,fan_inc
+it's too windy,fan_dec
+please turn on the fan,light_inc
+turn off the fan,light_dec
+switch on the fan,fan_inc
+switch off the fan,fan_dec
+i'm freezing,fan_dec
+it's too dark,light_inc
+it's too bright,light_dec
+i'm sweating,fan_inc
+give me little more ambiance,light_inc
+make the room a little chiller,fan_dec
+reduce the ambiance,light_dec
+make the room cooler,fan_inc
+the room is hot,fan_inc
+the room is cold,fan_dec
+the room is dull,light_inc
+the room is a bit warm,fan_inc
+the room is flaming,fan_inc
+i'm burning inside the room,fan_inc
+illuminate the room,light_inc
+make the room dark,light_dec
+don't you think the room is dark,light_dec
+don't you think the room is gloomy,light_inc
+make the room dark,light_dec
+i feel depressed,light_inc
+are you not feeling hot,fan_inc
+it is warm today,fan_inc

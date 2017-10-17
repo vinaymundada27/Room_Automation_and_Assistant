@@ -1,0 +1,54 @@
+can you search for <search>,search
+please search for <search>,search
+what is <search>,search
+where is <search>,search
+can you tell me where is <search>,search
+can you search for <search>,search
+when is <search>,search
+can you tell me about <search>,search
+what does <search> mean,search
+what is the meaning of <search>,search
+why do we sleep,search
+what is the time,search
+who is <search>,search
+what time is it,search
+what day is it,search
+why did <entity> win against <entity>,search
+what is the meaning of LUIS,search
+where did <event> happen,search
+when did <event> happen,search
+who was responsible for <event>,search
+who is the president of India,search
+who is the <post> of <entity>,search
+what is the full form of <thing>,search
+where is the capital city of <country>,search
+who was the <post> of <entity>,search
+who won the world cup in <year>,search
+what is today's date,search
+hi,no action
+hello,no action
+how are you doing,no action
+what is your name,no action
+what is your purpose,no action
+are you ready,no action
+when are you ready,no action
+how are you feeling?,no action
+am i insane,no action
+are you good at anything,no action
+are you insane,no action
+what do you want to do,no action
+hello how is it going,no action
+how is it going,no action
+thank you,no action
+thanks for that bot,no action
+i feel great,no action
+it's a sunny day in town,no action
+over the last fifty days,no action
+what happened,no action
+when are we going there,no action
+what should we do,no action
+what a beautiful day it is,no action
+is it not great that it's so cool,no action
+i am feeling bored,no action
+i want to explore the world,no action
+it is a pleasant night,no action

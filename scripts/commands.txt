@@ -1,0 +1,2 @@
+# to increase the speech output
+amixer set PCM -- 100%

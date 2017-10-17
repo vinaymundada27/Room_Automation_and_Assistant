@@ -1,0 +1,115 @@
+can you turn off the lights,hard_action
+can you turn on the lights,hard_action
+can you switch on the fan,hard_action
+can you switch off the fan,hard_action
+can you turn on the fan,hard_action
+can you turn off the fan,hard_action
+please switch on the fan,hard_action
+please switch off the fan,hard_action
+please switch on the lights,hard_action
+please switch off the lights,hard_action
+turn on the lights,hard_action
+turn off the lights,hard_action
+turn on the fan,hard_action
+turn off the fan ,hard_action
+turn the lights on,hard_action
+turn the lights off,hard_action
+turn the fan on ,hard_action
+lights on,hard_action
+lights off,hard_action
+can you set an alarm for <time>,hard_action
+set an alarm for <time> please,hard_action
+alarm for <time>,hard_action
+fan on,hard_action
+fan off,hard_action
+on the light,hard_action
+off the light,hard_action
+on the fan,hard_action
+off the fan,hard_action
+light on ,hard_action
+light off,hard_action
+fans on,hard_action
+fans off,hard_action
+brighten up the room,soft_action
+darken the room,soft_action
+let more air in,soft_action
+it's too windy,soft_action
+i'm feeling cold,soft_action
+i'm freezing,soft_action
+it's too dark,soft_action
+it's too bright,soft_action
+i'm sweating,soft_action
+give me little more ambiance,soft_action
+make the room a little chiller,soft_action
+reduce the ambiance,soft_action
+make the room cooler,soft_action
+the room is hot,soft_action
+the room is cold,soft_action
+the room is dull,soft_action
+the room is a bit warm,soft_action
+the room is flaming,soft_action
+i'm burning inside the room,soft_action
+illuminate the room,soft_action
+make the room dark,soft_action
+don't you think the room is dark,soft_action
+don't you think the room is gloomy,soft_action
+make the room dark,soft_action
+i feel depressed,soft_action
+are you not feeling hot,soft_action
+it  is warm today,soft_action
+good bye,soft_action
+i'm leaving,soft_action
+i'm off to work,soft_action
+adieu,soft_action
+farewell,soft_action
+see you later,soft_action
+hi,no_action
+hello,no_action
+how are you doing,no_action
+what is your name,no_action
+what is your purpose,no_action
+are you ready,no_action
+when are you ready,no_action
+how are you feeling,no_action
+am i insane,no_action
+are you good at anything,no_action
+are you insane,no_action
+what do you want to do,no_action
+hello how is it going,no_action
+how is it going,no_action
+thank you,no_action
+thanks for that bot,no_action
+i feel great,no_action
+it's a sunny day in town,no_action
+over the last fifty days,no_action
+what happened,no_action
+when are we going there,no_action
+what should we do,no_action
+what a beautiful day it is,no_action
+is it not great that it's so cool,no_action
+i am feeling bored,no_action
+i want to explore the world,no_action
+it is a pleasant night,no_action
+can you search for <search>,no_action
+please search for <search>,no_action
+what is <search>,no_action
+where is <search>,no_action
+can you tell me where is <search>,no_action
+can you search for <search>,no_action
+when is <search>,no_action
+can you tell me about <search>,no_action
+what does <search> mean,no_action
+what is the meaning of <search>,no_action
+why do we sleep,no_action
+what is the time,no_action
+who is <search>,no_action
+what time is it,no_action
+who are you on the inside,no_action
+what day is it,no_action
+why did <entity> win against <entity>,no_action
+good bye,terminate
+i'm leaving,terminate
+i'm off to work,terminate
+adieu,terminate
+farewell,terminate
+see you later,terminate
